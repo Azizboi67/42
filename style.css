@@ -1,0 +1,242 @@
+:root{
+    --color-Pink: hsl(322, 100%, 66%);
+    --color-Light-Pink: hsl(321, 100%, 78%);
+    --color-Light-Red: hsl(0, 100%, 63%);
+    --color-Very-Dark-Cyan: hsl(192, 100%, 9%);
+    --color-Very-Pale-Blue: hsl(207, 100%, 98%);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mainbox{
+    width: 1200px;
+    height: 3700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+  
+
+.logo button{
+    width: 100px;
+    height: 30px;
+    margin-left: 1000px;
+    border-radius: 20px;
+    font-size: 16px;
+    border-color: var(--color-Pink);
+    color: var(--color-Pink);
+}
+.start{
+    width: 900px;
+    height: 300px;
+    margin: 100px auto;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 40px;
+    color: var(--color-Very-Dark-Cyan);
+    margin-left:45px ;
+    
+}
+.huddle{
+    margin:20px 150px 0px;
+}
+.huddle{
+    font-size: 20px;
+}
+.users{
+    font-size: 20px;
+    margin-left: 220px;
+}
+.start button{
+    width: 250px;
+    height: 56px;
+    font-size: 20px;
+    border-radius: 40px;
+    margin-top: 30px;
+    border: none;
+    color: white;
+    background-color: var(--color-Pink);
+    margin-left: 270px;
+}
+.screen-mockups{
+    width: 900px;
+    height: 800px;
+    margin-left: 100px;
+}
+.follow{
+    width: 1000px;
+    height: 300px;
+    margin:  40px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.people{
+    width: 300px;
+    height: 300px;
+}
+.social-media{
+    width: 300px;
+    height: 300px;
+}
+.k{
+    font-size: 100px;
+    color: var(--color-Very-Dark-Cyan);
+}
+.m{
+    font-size: 100px;
+    color: var(--color-Very-Dark-Cyan);
+}
+.communities{
+    font-size: 20px;
+}
+.messages{
+    font-size: 20px;
+    margin-left: 40px;
+}
+.grow{
+    width: 1200px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.left{
+    width: 500px;
+    height: 100px;
+    margin-top: 150px;
+}
+
+.right img{
+    width: 400px;
+    height: 300px;
+}
+h2{
+    font-size: 40px;
+    color: var(--color-Very-Dark-Cyan);
+}
+.flowing{
+    width: 1200px;
+    height: 400px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.flowingleft img{
+    width: 500px;
+    height:400px;
+}
+.flowingright{
+    width: 500px;
+    height: 300px;
+    margin-top: 150px;
+}
+h3{
+    font-size: 40px;
+    color: var(--color-Very-Dark-Cyan);
+}
+h4{
+    font-size: 40px;
+    color: var(--color-Very-Dark-Cyan);
+}
+.users{
+    width: 1200px;
+    height: 400px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.usersright img{
+    width: 500px;
+    height:400px;
+}
+.users p{
+    font-size: 16px;
+}
+.usersleft{
+    width: 500px;
+    height: 300px;
+    margin-top: 150px;
+}
+.ready{
+    margin-top: 200px;
+}
+.ready button{
+    width: 350px;
+    height: 70px;
+    font-size: 20px;
+    border-radius: 40px;
+    margin-top: 30px;
+    border: none;
+    color: white;
+    background-color: var(--color-Pink);
+    margin-left: 370px;
+}
+h5{
+    font-size: 40px;
+    color: var(--color-Very-Dark-Cyan);
+    margin: 50px 250px 0px 250px;
+}
+.footer{
+    width: 1400px;
+    height: 500px;
+    background-color: var(--color-Very-Dark-Cyan);
+    margin: 0 auto;
+    display:flex;
+
+}
+.socialmedia{
+    width: 500px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.message{
+    width: 500px;
+    height: 400px;
+    margin-left: 120px;
+    margin-top: 70px;
+}
+.footerlogo{
+    color: white;
+}
+.footer span{
+    color: white;
+}
+.footer p{
+    color: white;
+}
+.footerlink{
+    width: 200px;
+    height: 50px;
+}
+.footerlink i{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    color: white;
+    padding-top: 50px;
+}
+h6{
+    font-size: 30px;
+    color: white;
+}
+.message input{
+    width: 300px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;   
+}
+.message button{
+    width: 150px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    background-color: var(--color-Pink);
+    margin-left: 30px;
+    font-size: 16px;
+    color: white;
+}
